@@ -1,4 +1,4 @@
-Summary: A VNC Console Proxy Server and Client for Citrix(R) XenServer
+Summary: A VNC Console Proxy Server and Client for XenServer
 Name: xvp
 Version: 1.16.0
 Release: 1%{?dist}
